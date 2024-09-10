@@ -1,3 +1,4 @@
+
 [tool.ruff]
 line-length = 120
 select = ["F", "E", "W", "I", "PL", "RUF"]
